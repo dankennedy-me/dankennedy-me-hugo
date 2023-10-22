@@ -1,2 +1,24 @@
+# Begin params
+params:
+  author: 'Dan Kennedy'
+  description: 'Personal website of Dan Kennedy: Web Developer, Musician, etc.'
+  copyright: 'All Content & Images &copy; 2023 Dan Kennedy'
+  links:
+  - name: Pics
+    path: /pics
+  - name: Music
+    path: /music
+  customCSS:
+  - css/custom.css
+# End params
+
 theme:
   - github.com/nodejh/hugo-theme-mini
+
+social:
+  # e.g.
+  github: https://github.com/dankennedy-me
+  linkedin: https://linkedin.com/in/dkennedy-ii
+
+showToc: true
+
