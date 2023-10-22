@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Oct 2023 13:13:16 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cats</title>
+      <link>/tags/cats/</link>
+      <pubDate>Sun, 22 Oct 2023 13:13:16 +0000</pubDate>
+      
+      <guid>/tags/cats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iphone</title>
+      <link>/tags/iphone/</link>
+      <pubDate>Sun, 22 Oct 2023 13:13:16 +0000</pubDate>
+      
+      <guid>/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jack</title>
+      <link>/tags/jack/</link>
+      <pubDate>Sun, 22 Oct 2023 13:13:16 +0000</pubDate>
+      
+      <guid>/tags/jack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mom</title>
+      <link>/tags/mom/</link>
+      <pubDate>Sun, 22 Oct 2023 13:13:16 +0000</pubDate>
+      
+      <guid>/tags/mom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/tags/about/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>government</title>
+      <link>/tags/government/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guitar</title>
+      <link>/tags/guitar/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/guitar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valley applications</title>
+      <link>/tags/valley-applications/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/valley-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guitar on </title>
+    <link>/tags/guitar/</link>
+    <description>Recent content in guitar on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/guitar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Thanks for dropping by my little nook on the web. My name is Dan, and I am a web developer and IT generalist. I am also a small business owner. Currently I am working full-time in the public sector.
+In my free time I enjoy playing guitar, and have been doing so since the mid-1980s. When possible, I like to record my music, and hope to post some of those recordings here.</description>
+    </item>
+    
+  </channel>
+</rss>
